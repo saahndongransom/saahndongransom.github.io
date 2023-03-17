@@ -112,7 +112,7 @@ p {
   }
   
   .card-box:hover {
-	background-color: lightgreen;
+	background-color: whitesmoke;
 	cursor: pointer;
   }
   .card-box p{
