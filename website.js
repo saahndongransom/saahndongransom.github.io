@@ -21,6 +21,7 @@ function showNextSlide() {
 	slides[currentSlideIndex].style.opacity = 1;
 }
 
+
 // Show the previous slide
 function showPreviousSlide() {
 	// Hide the current slide
@@ -44,6 +45,11 @@ previousButton.addEventListener('click', showPreviousSlide);
 
 var nextButton = slideshow.querySelector('.next-button');
 nextButton.addEventListener('click', showNextSlide);
+
+
+
+
+
 
 
 
